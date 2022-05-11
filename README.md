@@ -5,7 +5,7 @@
 </p>
 
 # Júlio Cézar
-<sub>*Data Scientist* Center</sub>
+<sub>*Data Scientist*</sub>
 
 xxxxxxxxxxxx
 
