@@ -12,7 +12,7 @@ Aqui você encontra os notebooks com a análise e os códigos dos meus projetos 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-de-paula-0b64b8226/)
-* [Medium](https://https://medium.com/@jcp.paula17)
+* [Medium](https://medium.com/@jcp.paula17)
 
 
 ## Projetos:
