@@ -7,19 +7,20 @@
 # Júlio Cézar de Paula
 <sub>*Data Scientist*</sub>
 
-xxxxxxxxxxxx
+Aqui você encontra os notebooks com a análise e os códigos dos meus projetos na área de Data Science.
 
-xxxxxxxxxxxxxxxx
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-de-paula-0b64b8226/)
-* [Medium](https://www.medium.com)
+* [Medium](https://https://medium.com/@jcp.paula17)
 
 
 ## Projetos:
 Veja os meu projetos:
 
-* **Como usar o Histograma para Data Science:** https://
+* **Business Intelligence com Google Cloud Products:** https://bit.ly/3EcCHxM
 
 
----
+## Sobre mim:
+
+Sou Funcionário Público do município de Monte Mor há mais de 11 anos, sou especialista em tributos municipais e entusiasta em tecnologia. Hoje estudo Python e Data Science e busco por meio da análise de dados uma melhoria contínua na tomada de decisões e agilidade dos processo.
