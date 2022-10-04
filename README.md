@@ -4,7 +4,7 @@
   <img src="Logo.png" >
 </p>
 
-# Júlio Cézar
+# Júlio Cézar de Paula
 <sub>*Data Scientist*</sub>
 
 xxxxxxxxxxxx
