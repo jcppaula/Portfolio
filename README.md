@@ -23,4 +23,4 @@ Veja os meu projetos:
 
 ## Sobre mim:
 
-Sou Funcionário Público do município de Monte Mor há mais de 11 anos, sou especialista em tributos municipais e entusiasta em tecnologia. Hoje estudo Python e Data Science e busco por meio da análise de dados uma melhoria contínua na tomada de decisões e agilidade dos processo.
+Sou Funcionário Público do município de Monte Mor há mais de 11 anos, sou especialista em tributos municipais e entusiasta em tecnologia. Hoje estudo Python e Data Science e busco por meio da análise de dados uma melhoria contínua na tomada de decisões e agilidade nos processos.
