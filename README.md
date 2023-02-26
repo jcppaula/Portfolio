@@ -18,9 +18,9 @@ Aqui você encontra os notebooks com a análise e os códigos dos meus projetos 
 ## Projetos:
 Veja os meu projetos:
 
-* **Business Intelligence com Google Cloud Products:** https://bit.ly/3EcCHxM
+* [Business Intelligence com Google Cloud Products](https://github.com/jcppaula/Business-Intelligence-com-Google-Cloud-Products/blob/main/Business_Intelligence_com_Google_Cloud_Products_21_02_23.ipynb)
 
 
 ## Sobre mim:
 
-Sou Funcionário Público do município de Monte Mor há mais de 11 anos, sou especialista em tributos municipais e entusiasta em tecnologia. Hoje estudo Python e Data Science e busco por meio da análise de dados uma melhoria contínua na tomada de decisões e agilidade nos processos.
+Sou Funcionário Público do município de Monte Mor há mais de 12 anos, sou especialista em tributos municipais e entusiasta em tecnologia. Hoje estudo Python e Data Science e busco por meio da análise de dados uma melhoria contínua na tomada de decisões e agilidade nos processos.
