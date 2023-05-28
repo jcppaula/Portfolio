@@ -13,7 +13,12 @@
 
 
 ## Projetos:
-#### Visão Computacional
+
+### Data Science
+
+* [Business Intelligence com Google Cloud Products](https://github.com/jcppaula/Business-Intelligence-com-Google-Cloud-Products/blob/main/Business_Intelligence_com_Google_Cloud_Products_21_02_23.ipynb)
+
+### Visão Computacional
 
 * [Detecção Facial em imagem usando OpenCV e Dlib](https://github.com/jcppaula/Deteccao_Facial_em_Imagem_com_Opencv_e_Dlib)
 
