@@ -5,10 +5,7 @@
 </p>
 
 # Júlio Cézar de Paula
-##<sub>*Data Scientist*</sub>
-
-Aqui você encontra os notebooks com a análise e os códigos dos meus projetos na área de Data Science e Visão Computacional.
-
+<sub>*Data Scientist*</sub>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-de-paula-0b64b8226/)
@@ -16,15 +13,11 @@ Aqui você encontra os notebooks com a análise e os códigos dos meus projetos 
 
 
 ## Projetos:
-## Data Science:
-
-* [Business Intelligence com Google Cloud Products](https://github.com/jcppaula/Business-Intelligence-com-Google-Cloud-Products/blob/main/Business_Intelligence_com_Google_Cloud_Products_21_02_23.ipynb)
-
-## Visão Computacional
+#### Visão Computacional
 
 * [Detecção Facial em imagem usando OpenCV e Dlib](https://github.com/jcppaula/Deteccao_Facial_em_Imagem_com_Opencv_e_Dlib)
 
 
-## Sobre mim:
+#### Sobre mim:
 
 Sou Funcionário Público do município de Monte Mor há mais de 12 anos, especialista em tributos municipais e entusiasta em tecnologia. Aqui você pode encontrar meus projetos de Data Science e Visão Computacional
