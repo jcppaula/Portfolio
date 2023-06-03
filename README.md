@@ -21,6 +21,7 @@
 ### Visão Computacional
 
 * [Detecção Facial em imagem usando OpenCV e Dlib](https://github.com/jcppaula/Deteccao_Facial_em_Imagem_com_Opencv_e_Dlib)
+* [Detecção Facial em video usando OpenCV e Dlib](https://github.com/jcppaula/Deteccao_Facial_em_Video_com_Opencv_e_Dlib/blob/main/README.md)
 
 
 #### Sobre mim:
