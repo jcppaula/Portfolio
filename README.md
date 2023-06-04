@@ -27,5 +27,6 @@ Aqui você pode encontrar meus projetos de Data Science e Visão Computacional.
 
 * [Detecção Facial em imagem usando OpenCV e Dlib](https://github.com/jcppaula/Deteccao_Facial_em_Imagem_com_Opencv_e_Dlib)
 * [Detecção Facial em video usando OpenCV e Dlib](https://github.com/jcppaula/Deteccao_Facial_em_Video_com_Opencv_e_Dlib/blob/main/README.md)
+* [Detector de Fadiga](https://github.com/jcppaula/Detector_de_Fadiga/blob/main/README.md)
 
 
