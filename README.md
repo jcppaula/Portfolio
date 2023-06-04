@@ -9,9 +9,10 @@
 <br/>
 
 # Júlio Cézar de Paula
-<sub>*Data Scientist*</sub>
 
-**Links:**
+Aqui você pode encontrar meus projetos de Data Science e Visão Computacional.
+
+**Contate-me**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-de-paula-0b64b8226/)
 * [Medium](https://medium.com/@jcp.paula17)
 
@@ -28,6 +29,3 @@
 * [Detecção Facial em video usando OpenCV e Dlib](https://github.com/jcppaula/Deteccao_Facial_em_Video_com_Opencv_e_Dlib/blob/main/README.md)
 
 
-#### Sobre mim:
-
-Sou Funcionário Público do município de Monte Mor há mais de 12 anos, especialista em tributos municipais e entusiasta em tecnologia. Aqui você pode encontrar meus projetos de Data Science e Visão Computacional
